@@ -1,3 +1,3 @@
-# free_minions_rep_kadim
+# catalind-path
 Java Learning Path --> Cosmin Bucur 👨🏻‍💻
 My first commit on this repo !! 
