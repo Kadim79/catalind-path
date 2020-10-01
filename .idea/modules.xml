@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Tim_Buchalka/Java_Tim_Buchalka.iml" filepath="$PROJECT_DIR$/Java_Tim_Buchalka/Java_Tim_Buchalka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/catalind-path.iml" filepath="$PROJECT_DIR$/.idea/catalind-path.iml" />
+    </modules>
+  </component>
+</project>
