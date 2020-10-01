@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b05abc95-e3ec-4c81-9992-a5fc073c72d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/src/main/java/section5/AllFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/src/main/java/section5/Greatest_Common_Divider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/src/main/java/section5/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Tim_Buchalka/Java_Tim_Buchalka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/Java_Tim_Buchalka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Tim_Buchalka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Tim_Buchalka/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +47,59 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NumberToWordsMyWay">
+    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.AllFactors" />
+      <module name="Java_Tim_Buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greatest_Common_Divider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.Greatest_Common_Divider" />
+      <module name="Java_Tim_Buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWordsMyWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.NumberToWordsMyWay" />
+      <module name="Java_Tim_Buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.PerfectNumber" />
+      <module name="Java_Tim_Buchalka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -41,6 +111,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberToWordsMyWay" />
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.Greatest_Common_Divider" />
+        <item itemvalue="Application.AllFactors" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,10 +130,33 @@
       <updated>1601558547034</updated>
       <workItem from="1601558548449" duration="8000" />
       <workItem from="1601558794272" duration="723000" />
+      <workItem from="1601564262326" duration="355000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1386" height="207" key="GridCell.Tab.0.bottom" timestamp="1601564622850">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601564622850" />
+    <state width="1386" height="207" key="GridCell.Tab.0.center" timestamp="1601564622849">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601564622849" />
+    <state width="1386" height="207" key="GridCell.Tab.0.left" timestamp="1601564622848">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601564622848" />
+    <state width="1386" height="207" key="GridCell.Tab.0.right" timestamp="1601564622849">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1386" height="207" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601564622849" />
+    <state x="0" y="47" key="new project wizard" timestamp="1601563487271">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="47" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1601563487271" />
   </component>
 </project>
