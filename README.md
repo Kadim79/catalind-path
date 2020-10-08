@@ -1,7 +1,7 @@
 # catalind-path
 Java Learning Path --> Cosmin Bucur 👨🏻‍💻
 
-Write in front of the TODO to mark it as complete! 
+Add ✓ symbol in front of the TODO to mark it as complete! 
 
 # Technical TODO
 
